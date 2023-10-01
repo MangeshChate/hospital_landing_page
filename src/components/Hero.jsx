@@ -15,7 +15,7 @@ function Hero() {
         </div>
         <div className="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-end align-items-center">
 
-          <img src="https://eabb.org/wp-content/uploads/2021/11/medical-5459630_1280-1244x622.png"className='des-img img-fluid w-100 rounded-5 ' alt="" />
+          <img src="https://cdni.iconscout.com/illustration/premium/thumb/doctor-appointment-7301315-5979639.png"className='des-img img-fluid w-100 rounded-5 ' alt="" />
         </div>
 
       </div>
